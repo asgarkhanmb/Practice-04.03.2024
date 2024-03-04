@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "V/8y6bzjbeNsW61tdGi/N2gr3sBTFwQPxb1OUisB2sdOHnpl/JUhZH/OpbmfOUp9bcPY0Hgo5OtYulUd9S97Rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Əsgərxan\\Desktop\\Homework-Practice\\Homework-Practice\\Homework-Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Əsgərxan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Əsgərxan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Əsgərxan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Əsgərxan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

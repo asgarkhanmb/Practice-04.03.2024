@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Homework-Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3AC792-81B6-45B5-BEB9-2356ED326B45}|Homework-Practice\\Homework-Practice.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\homework-practice\\homework-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3AC792-81B6-45B5-BEB9-2356ED326B45}|Homework-Practice\\Homework-Practice.csproj|solutionrelative:homework-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Homework-Practice\\Homework-Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Homework-Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Homework-Practice\\Homework-Practice\\Program.cs",
+              "RelativeToolTip": "Homework-Practice\\Program.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAHsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:57:44.618Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

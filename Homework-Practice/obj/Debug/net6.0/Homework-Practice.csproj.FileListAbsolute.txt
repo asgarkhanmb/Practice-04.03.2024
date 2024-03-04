@@ -1,0 +1,14 @@
+C:\Users\Əsgərxan\Desktop\Homework-Practice\Homework-Practice\bin\Debug\net6.0\Homework-Practice.exe
+C:\Users\Əsgərxan\Desktop\Homework-Practice\Homework-Practice\bin\Debug\net6.0\Homework-Practice.deps.json
+C:\Users\Əsgərxan\Desktop\Homework-Practice\Homework-Practice\bin\Debug\net6.0\Homework-Practice.runtimeconfig.json
+C:\Users\Əsgərxan\Desktop\Homework-Practice\Homework-Practice\bin\Debug\net6.0\Homework-Practice.dll
+C:\Users\Əsgərxan\Desktop\Homework-Practice\Homework-Practice\bin\Debug\net6.0\Homework-Practice.pdb
+C:\Users\Əsgərxan\Desktop\Homework-Practice\Homework-Practice\obj\Debug\net6.0\Homework-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Əsgərxan\Desktop\Homework-Practice\Homework-Practice\obj\Debug\net6.0\Homework-Practice.AssemblyInfoInputs.cache
+C:\Users\Əsgərxan\Desktop\Homework-Practice\Homework-Practice\obj\Debug\net6.0\Homework-Practice.AssemblyInfo.cs
+C:\Users\Əsgərxan\Desktop\Homework-Practice\Homework-Practice\obj\Debug\net6.0\Homework-Practice.csproj.CoreCompileInputs.cache
+C:\Users\Əsgərxan\Desktop\Homework-Practice\Homework-Practice\obj\Debug\net6.0\Homework-Practice.dll
+C:\Users\Əsgərxan\Desktop\Homework-Practice\Homework-Practice\obj\Debug\net6.0\refint\Homework-Practice.dll
+C:\Users\Əsgərxan\Desktop\Homework-Practice\Homework-Practice\obj\Debug\net6.0\Homework-Practice.pdb
+C:\Users\Əsgərxan\Desktop\Homework-Practice\Homework-Practice\obj\Debug\net6.0\Homework-Practice.genruntimeconfig.cache
+C:\Users\Əsgərxan\Desktop\Homework-Practice\Homework-Practice\obj\Debug\net6.0\ref\Homework-Practice.dll
